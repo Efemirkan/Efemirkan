@@ -1,13 +1,34 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome to My GitHub Profile!
 
-Hey there! I'm Efe Mirkan Guner, a passionate data scientist and tech enthusiast. Welcome to my GitHub profile, where you can find a collection of my projects, experiments, and contributions.
+Hi, I’m Efe Mirkan Guner.
+I’m currently completing an MSc in Artificial Intelligence and Adaptive Systems at the University of Sussex.
+
+This GitHub profile contains projects from my MSc coursework as well as personal experiments in **agent-based modelling, machine learning, data analysis, and natural language processing (NLP)**. Much of my work focuses on understanding how simple rules and representations can lead to complex behaviour, both in biological and artificial systems.
 
 ## About Me ℹ️
 
-I'm a recently graduated Data Scientist, specializing in data science, machine learning, data analysis, data visualisation and natural language processing(NLP). 
-I'm always eager to delve into the world of technology and innovation. With a passion for learning and a drive to make an impact, I'm excited to embark on my journey in the industry. 
+I have a background in data analysis and a strong interest in:
 
+- Agent-based models and collective behaviour
 
+- Machine learning and model evaluation
+
+- Natural language processing (text classification, representation, and analysis)
+
+- Decision-making under uncertainty and noise
+
+Many of the repositories here are linked to academic projects, where the emphasis is on **clear modelling assumptions, reproducibility, and careful analysis,** rather than production-level optimisation. 
+
+## What You’ll Find Here
+
+- MSc coursework projects (models, simulations, and reports)
+
+- Python implementations of decision-making and learning models
+
+- NLP experiments and text-based analysis projects
+
+- Parameter sweeps, Monte Carlo experiments, and result visualisation
+- 
 ## Get in Touch 📬
 
 - LinkedIn: [efemirkan](https://www.linkedin.com/in/efemirkan/)

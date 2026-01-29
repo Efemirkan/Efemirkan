@@ -28,7 +28,7 @@ Many of the repositories here are linked to academic projects, where the emphasi
 - NLP experiments and text-based analysis projects
 
 - Parameter sweeps, Monte Carlo experiments, and result visualisation
-- 
+
 ## Get in Touch 📬
 
 - LinkedIn: [efemirkan](https://www.linkedin.com/in/efemirkan/)
